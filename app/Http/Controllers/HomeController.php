@@ -8,7 +8,8 @@ class HomeController extends Controller
 {
     public function index(Request $request)
     {
-        $guest = request()->query('guest');
+        $q = request()->query('guest');
+        $guest = str_replace('-', ' ', $q);
 
         return view('index', compact('guest'));
     }
