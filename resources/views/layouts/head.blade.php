@@ -7,7 +7,7 @@
         <link rel="preconnect" href="https://optimizerwpc.b-cdn.net">
         <link rel="dns-prefetch" href="//cdn2.invi.id" />
         <link rel="preconnect" href="https://cdn2.invi.id">
-        <title>Khitanan 02 &#8211; Demo Invi</title>
+        <title>Sulthan Naufal Al-Banus</title>
         <style type="text/css">
             .cui-comment-text img {
                 max-width: 100% !important;
